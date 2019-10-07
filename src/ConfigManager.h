@@ -2,7 +2,7 @@
 #define __CONFIGMANAGER_H__
 
 #define LED 2
-#define PIN_RESET 5
+#define PIN_RESET D1
 
 #include <DNSServer.h>
 #include <EEPROM.h>
